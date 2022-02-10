@@ -16,7 +16,7 @@ const Header = (props : any) => {
   const useStyles = makeStyles({
     header: {
         height: '40px',
-        backgroundColor: "#fff000"
+        backgroundColor: "#ff0000"
     }
   
   });
